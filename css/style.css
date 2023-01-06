@@ -1,0 +1,14 @@
+p {
+    color: green;
+    font-size: x-large;
+    text-align: center;
+    background: beige;
+    font-weight: bold;
+}
+
+div {
+    width: 100vw;
+    height: 50vh;
+    background-image: url('../assets/images/pexels-nothing-ahead-3571551.jpg');
+    background-size: cover;
+}
